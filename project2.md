@@ -4,6 +4,7 @@
 ```
 cd ~
 cd utrains-project
+mkdir project2
 cd project2
 code Vagrantfile
 paste below code into the Vagrantfile and then save.
